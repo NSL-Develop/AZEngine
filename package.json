@@ -1,0 +1,15 @@
+{
+	"name":"azengine",
+	"version": "0.1.6",
+	"main":"index.js",
+	"author":"NSL-Develop",
+	"keywords":[
+		"azengine",
+		"engine",
+		"game",
+		"api",
+		"dev",
+		"nsl-develop"
+	],
+	"description":"A 2d web game engine"
+}
