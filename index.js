@@ -545,5 +545,3 @@ class AudioChannel {
         this.#audio.pause();
     };
 };
-
-module.exports = AZEngine;
